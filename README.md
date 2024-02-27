@@ -2,6 +2,8 @@
 
 Infinity mirror with Led animation
 
+Work only with Arduino DUE
+
 Audio input with MSGEQ7
 
 AKAI APC Key 25 midi control
